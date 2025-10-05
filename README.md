@@ -7,11 +7,11 @@ It helps simulate a real hospital process — from diagnosis to prescription and
 
 ###✨ What It Does
 
- # Understands Symptoms – You describe how you feel, and the AI suggests possible tests.
- # Analyzes Diagnosis – It recommends medication based on your diagnosis.
- # Prescribes Drugs – Automatically suggests appropriate treatments.
- # Takes Feedback – Listens to your response after treatment.
- # Gives Follow-up Advice – Advises whether you’ve recovered or should return to hospital.
+ - Understands Symptoms – You describe how you feel, and the AI suggests possible tests.
+ - Analyzes Diagnosis – It recommends medication based on your diagnosis.
+ - Prescribes Drugs – Automatically suggests appropriate treatments.
+ - Takes Feedback – Listens to your response after treatment.
+ - Gives Follow-up Advice – Advises whether you’ve recovered or should return to hospital.
 
 ####⚙️ How to Run Locally
 
